@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
   "ExpandedNodes": [
     ""
   ],
   "SelectedNode": "\\WelcomeExtended.sln",
+=======
+<<<<<<< HEAD
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\Welcome.sln",
+=======
+  "ExpandedNodes": [],
+>>>>>>> origin/master
+>>>>>>> refs/remotes/origin/master
   "PreviewInSolutionExplorer": false
 }
