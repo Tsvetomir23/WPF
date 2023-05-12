@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\MSI\source\repos\WelcomeExtended\WelcomeExtended\UI\obj\Debug\net6.0-windows\
+C:\Users\MSI\Source\Repos\WPF\UI\obj\Debug\net6.0-windows\
 UI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\MSI\source\repos\WelcomeExtended\WelcomeExtended\UI\App.xaml
+C:\Users\MSI\Source\Repos\WPF\UI\App.xaml
 2799999530
 
 61796080458
-2151806847336
+194-1617825143
 Components\StudentList.xaml;Windows\MainWindow.xaml;
 
 True

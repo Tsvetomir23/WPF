@@ -32,7 +32,7 @@ namespace WPFLayer.Components
                 using (var context = new DatabaseContext())
                 {
                     var records = context.Users.ToList();
-                    studens
+                    studens.DataContext = records;
                 }
             }
             catch (Exception ex)
